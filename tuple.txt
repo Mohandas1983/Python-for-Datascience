@@ -1,0 +1,8 @@
+tuple1 = ("Nalan",8,7.5 )
+tuple1
+print(tuple1[-3])
+tuple2=tuple1+("smartboy",100)
+tuple2
+tuple2[3:5]
+len(tuple2)
+type(tuple2[-2])
